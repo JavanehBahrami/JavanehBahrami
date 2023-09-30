@@ -1,7 +1,7 @@
 ### Hi there 👋 , Im Javaneh Bahrami
 
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently working in computer vision feilds
 
 ### 🛠 &nbsp;Tech Stack
 
