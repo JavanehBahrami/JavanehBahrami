@@ -27,14 +27,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/imanhmz">
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imanhmz&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imanhmz&layout=compact&langs_count=12&theme=shades-of-purple&hide=css,html"/>
+<a href="https://github.com/JavanehBahrami">
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JavanehBahrami&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JavanehBahrami&layout=compact&langs_count=12&theme=shades-of-purple&hide=css,html"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/imanhmz/"><img src="https://img.shields.io/badge/-Iman Hajimostafazadeh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/JavanehBahrami/"><img src="https://img.shields.io/badge/-Iman Hajimostafazadeh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://iman.dev"><img src="https://img.shields.io/badge/-iman.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:iman.mostafazadeh@gmail.com"><img src="https://img.shields.io/badge/-iman.mostafazadeh@gmail.com-black?style=flat&logo=maildotru&logoColor=white"/></a>
