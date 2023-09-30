@@ -35,5 +35,5 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/saeedeh-javaneh-bahrami"><img src="https://img.shields.io/badge/-Iman Hajimostafazadeh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/saeedeh-javaneh-bahrami"><img src="https://img.shields.io/badge/-Javaneh Bahrami-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:bahramisaeede@gmail.com"><img src="https://img.shields.io/badge/-bahramisaeede@gmail.com-black?style=flat&logo=maildotru&logoColor=white"/></a>
