@@ -1,11 +1,11 @@
-### Hi there 👋 , Im Iman hajimostafazadeh
+### Hi there 👋 , Im Javaneh Bahrami
 
 
 - 🌱 I’m currently learning Golang
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Tensorflow](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-%2300ADD8?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
