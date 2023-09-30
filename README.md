@@ -7,7 +7,7 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/typescript-%2300ADD8?style=for-the-badge&logo=typescript&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![REACT](https://img.shields.io/badge/react-%2300ADD8.svg?style=for-the-badge&logo=react&logoColor=white)
