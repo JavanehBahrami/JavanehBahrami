@@ -1,7 +1,7 @@
 ### Hi there 👋 , Im Javaneh Bahrami
 
 
-- 🌱 I’m currently working in computer vision field
+- 🌱 I’m currently working in a computer vision field
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -13,6 +13,7 @@
 
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![DVC S3](https://img.shields.io/badge/DVC-S3-%23A62F6E?logo=dvc&logoColor=ffffff&color=0052CC)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
