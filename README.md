@@ -18,7 +18,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![NVIDIA TensorRT](https://img.shields.io/badge/NVIDIA-TensorRT-6B8E23?logo=nvidia)
-![Triton Serving](https://img.shields.io/badge/Triton-Serving-6B8E23?logo=triton)
+![NVIDIA Triton Serving](https://img.shields.io/badge/NVIDIA-Triton_Serving-6B8E23?logo=nvidia)
 ![TorchServe](https://img.shields.io/badge/TorchServe-Serving-orange?logo=pytorch)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
